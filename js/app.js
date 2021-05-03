@@ -229,6 +229,6 @@ let lima	 = {
     }
 
 }
-Paris.randomCustNumber();
-Paris.salesCookies();
-Paris.render();
+lima.randomCustNumber();
+lima.salesCookies();
+lima.render();
